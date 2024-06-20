@@ -1,9 +1,5 @@
-The waze_app_dataset.csv file contains data collected from the Waze app, providing comprehensive insights into user interactions within the navigation app. This dataset is crucial for understanding and mitigating user churn. Waze, renowned for its free navigation services, fosters a dynamic community of contributors, including map editors, beta testers, and partners, united in the mission to enhance global travel efficiency and safety.4
-
-
-Thank you for the clarification. Below is the revised README file for the waze_app_dataset.csv with the correct columns.
-
 Waze App Dataset
+
 Overview
 The waze_app_dataset.csv file contains data collected from the Waze app, providing comprehensive insights into user interactions within the navigation app. This dataset is crucial for understanding and mitigating user churn. Waze, renowned for its free navigation services, fosters a dynamic community of contributors, including map editors, beta testers, and partners, united in the mission to enhance global travel efficiency and safety.
 
