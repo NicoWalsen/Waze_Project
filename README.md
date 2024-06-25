@@ -2,7 +2,6 @@
 
 Waze App Dataset
 
-Overview
 The waze_app_dataset.csv file contains data collected from the Waze app, providing comprehensive insights into user interactions within the navigation app. This dataset is crucial for understanding and mitigating user churn. Waze, renowned for its free navigation services, fosters a dynamic community of contributors, including map editors, beta testers, and partners, united in the mission to enhance global travel efficiency and safety.
 
 Dataset Contents
@@ -25,28 +24,21 @@ This dataset is ideal for both exploratory data analysis (EDA) and machine learn
 
 Applications are conducted in 'WAZE_PROJECT.ipynb' file:
 
-Exploratory Data Analysis (EDA): Identify patterns and trends in user activity and by:
+1)Exploratory Data Analysis (EDA): Identify patterns and trends in user activity and by:
 Creating visualizations among features and label.
 Exploring methods to get insights.
 
-Data Processing
+2)Data Processing
 Before using the dataset, some preprocessing steps may be required, such as:
 Handling missing or incomplete data.
 Encoding categorical variables.
 Normalizing numerical features.
 Handling class imbalance.
 
-Machine Learning Models: Develop predictive models to forecast user churn.
+3)Machine Learning Models: Develop predictive models to forecast user churn.
 
+4)Evaluation: Metrics to evaluate model performance and to choose the most accurate.
 
 Further steps
 User Retention Analysis: Understand user engagement and retention based on activity and driving patterns.
 Personalized Marketing: Tailor marketing strategies to enhance user retention and engagement.
-
-
-License
-This dataset has been created for educational purposes.
-
-Acknowledgments
-Data sourced from the Waze app.
-Special thanks to the community of Waze users for their contributions.
